@@ -1,7 +1,7 @@
 #
 #   Author: Alan Kavanagh
 #   Date: 27th July 2016
-#   Website: github.com/TehJokeR
+#   Website: github.com/AlanKavo92
 #
 ###############################
 
@@ -88,7 +88,7 @@ def create_parser():
     return parser
 
 
-screen('[ ~ Script by github.com/TehJokeR ~ ]')
+screen('[ ~ Script by github.com/AlanKavo92 ~ ]')
 screen('https://www.upwork.com/freelancers/~01a543ba2a84adfa3e#/')
 
 screen('Script started')
@@ -110,7 +110,7 @@ elif args.timeout:
     run_time(driver, args)
 
 screen('Script finished')
-screen('[ ~ Script by github.com/TehJokeR ~ ]')
+screen('[ ~ Script by github.com/AlanKavo92 ~ ]')
 screen('https://www.upwork.com/freelancers/~01a543ba2a84adfa3e#/')
 
 driver.close()
